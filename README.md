@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hiya, and welcome to my github. 
+I'm not super active here, mostly use this for personal projects.
+May contribute more time to open source projects I'm interested in & make use of in the future.
 <!--
 **MontySKW/MontySKW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
